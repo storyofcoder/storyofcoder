@@ -14,7 +14,7 @@ Hi, I'm [Munny Kumar](https://docs.google.com/document/d/1f4SNdvzipur1WzTFhii0mZ
 Since 2017 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code.
 
 
-Experienced in demonstrated history of working in the Cryptocurrency industry. Expert in translating business requirements into technical solutions.
+With demonstrated history of working in the Cryptocurrency industry. Expert in translating business requirements into technical solutions.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
