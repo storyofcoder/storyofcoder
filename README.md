@@ -19,7 +19,6 @@ With demonstrated history of working in the Cryptocurrency industry. Expert in t
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
 
@@ -37,9 +36,8 @@ With demonstrated history of working in the Cryptocurrency industry. Expert in t
 
 🚧 **My Projects Stats:**
 <!-- TODO-IST:START -->
-🏆  16 Projects - React          
-🌸  12 Projects - Node, Express              
-⏳   &nbsp;&nbsp;07 Projects  - HTML, CSS
+🏆  24+ Projects - React          
+🌸  16+ Projects - Node, Express        
 <!-- TODO-IST:END -->
 
 
